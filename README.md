@@ -7,4 +7,4 @@ Minecraft plugin for the Shrekonid. Striking a lightning in the block that hit b
 
 
 
-To make enable lightning trident just add `{tridentlight: "yes"}` NBTTag. 
+To enable trident lightning just add `{tridentlight: "yes"}` NBTTag to trident item. 
