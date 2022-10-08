@@ -4,3 +4,7 @@ Minecraft plugin for the Shrekonid. Striking a lightning in the block that hit b
 **JAR FILE**: TridentLightPlugin.jar<br>
 
 **You must add https://www.curseforge.com/minecraft/bukkit-plugins/nbt-api/files to your plugins to TridentNBT works.**
+
+
+
+To make enable lightning trident just add `{tridentlight: "yes"}` NBTTag. 
