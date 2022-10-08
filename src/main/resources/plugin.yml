@@ -1,0 +1,5 @@
+name: TridentLight
+version: '${project.version}'
+main: tridentlight.tridentlight.TridentLight
+api-version: 1.18
+authors: [ AlwaysProg ]
